@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Mrits</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="notice">Notice</string>
+    <string name="gallery">Gallery</string>
+    <string name="about_us">About Us</string>
+    <string name="todo">TODO</string>
+    <string name="ebooks">Ebooks</string>
+    <string name="website">Website</string>
+
+    <string name="app_id">ca-app-pub-3933045963063630~4909958008</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3933045963063630/1419314250</string>
+
+    //ca-app-pub-3933045963063630/1419314250
+    //  test ca-app-pub-3940256099942544/6300978111
+
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="my_college_mrits">Mrits</string>
+    <string name="about_fagment">Malla Reddy Institute of Technology and Science (MRITS) has been established in the year 2005 under the dynamic leadership of Shri Ch. Malla Reddy garu . The institution is sponsored by Malla Reddy Educational Society. Shri Ch. Malla Reddy garu, our founder Chairman has been in the field of education industry for the last 25 years with an intention of spreading quality education among children at the school level. He established his first technical college in the year 2002 and over a span of 7 years he established more than 10 professional colleges. He won as Honorable Member of Parliament (MP) for Malkajgiri Constituency which is in the jurisdiction of Hyderabad, Telangana State in the year 2014.Our college has been approved by All India Council of Technical Education(AICTE), New Delhi, Accredited by NBA for B.Tech., Recognized by UGC, New Delhi under 2(f) and 12(b) for receiving financial grants, Certified by ISO 9001:2008 and Permanently affiliated to Jawaharlal Nehru Technological University, Hyderabad.
+
+</string>
+
+    <string name="contact_details">Contact Details</string>
+    <string name="address">Maisammaguda, Dhulapally, Medchal, Secunderabad Telangana, INDIA\n
+        Phone No:
+        7995222300, 7207034238\n
+        Email: mrits_pril@yahoo.co.in, mrits.s1@gmail.com, info@mrits.ac.in\n
+        Website: http://mrits.ac.in/\n</string>
+    <string name="date">Date :</string>
+    <string name="time">Time :</string>
+    <string name="mrits">MRITS STUDENT CHAPTERS</string>
+
+
+    <string name="ecehod">Ph.D. (ECE, JNTUA), M.Tech (ECE), B.Tech (ECE)
+
+Dr. Rachapudi Prabahakar, obtained Ph.D in the field of VLSI in the year of 2017 from JNTUA, Andhra Pradesh, India. He did his M.Tech with the specialization of Digital Systems and Computer Electronics (DSCE) in JNTU College of Engineering Anantapur (JNTU Campus) in 2005 and he did his B.Tech in Electronics and Communications Engineering (ECE) from G Pulla Reddy Engineering College, Kurnool in 1995. He is working as Professor of ECE Department in Malla Reddy Institute of Technology and Science, Maisammaguda, Kompally, Hyderabad, Telangana, India since 1st March, 2021 to till date. He published more than 15 papers in National and International Journals and presented more than 10 papers in various Conferences in and outside of India. He is having total of 23 years of experience in teaching and has been worked in various Engineering Colleges in different positions from Assistant Professor to Vice Principal of the College. His area of interest is VLSI, Probability Theory and Stochastic Processes, Communications and Digital IC Applications</string>
+
+
+    <string name="dshod">Dr. T. Srikanth is working as Associate Professor and Head of Department of CSE (Data Science) in Malla Reddy Institute of Technology and Science, Maisammaguda, Dhulapally, Hyderabad, Telangana. He has 12 years of experience in teaching. He has published many papers in the peer-refereed National and International journals and conferences. He has received his Doctorate (Ph.D.) degree in Computer Science and Engineering from SSSUTMS University, Bhopal, Madhya Pradesh. He did his M. Tech with the specialization of Software Engineering from NCET, JNTU Kakinada. He did his B. Tech with the specialization of Computer Science and Engineering from KLCE, ANU. His research interests include Computer Networks, Data mining and Data science. He is Life time member of Indian Society for Technology Education (ISTE), Life Membership No: LM115041. He has held different academic positions like NBA Coordinator, Head of the Department, Examination Branch In charge and Spot Coordinator.</string>
+
+
+    <string name="front">MRITS is a very special place. As Indias premier engineering college, it is a college in which young people can flourish, find confidence and a sense of self-worth whilst achieving the very highest academic standards.Dr. K. Ravindra received his B.Tech. degree in Electronics and Communication Engineering from Andhra University, M.E. with Honors from University of Roorkee (Presently IIT, Roorkee) and Ph. D. in the feild of Mobile Communications from Osmania University. He is a recipient of GOLD MEDAL from Roorkee University for standing first in Masters Degree. He has Engineering teaching experience of over 26 years in various capacities. Dr. Ravindra served as Senior Scientist in the "Research and Training Unit for Navigational Electronics" Osmania University from December 2000 to December 2002.He is presently working as PRINCIPAL in Malla Reddy Institute Of Technology And Science, Hyderabad. Prof. Ravindra has 36 technical papers to his credit published in various International, National Journals and Conferences. He coauthored 2 technical reports in the feild of GPS. Prof. Ravindra is the resource person for video lectures produced by SONET, Andhra Pradesh.</string>
+
+
+    <string name="cshod">Dr. Y.Madhusekhar is working as Associate Professor and Head of Department of CSE (Cyber Security) in Malla Reddy Institute of Technology and Science, Maisammaguda, Dhulapally, Hyderabad, Telangana.He has 13+ years of experience in teaching in the area of Computer Science and Engineering (CSE).His Areas of interests include Image and Video Processing, Artificial Intelligence, and Data Mining.In-charge for NBA Criteria 2 and 7
+Worked as NAAC coordinator
+Coordinator for National Conference on Wireless Communications and Mobile Computing
+Organizer for college fest</string>
+
+
+    <string name="ithod">Dr.J.Vignesh is working as Associate Professor and Head of Department of Information Technology in Malla Reddy Institute of Technology and Science, Maisammaguda, Dhulapally, Hyderabad, Telangana.He has 10 + years of Teaching experience in the area of Computer science and Engineering.Data Mining.Recieved International "Teaching Excellence Award" from INDO-GLOBAL EDUCATION SUMMIT 2017</string>
+
+    <string name="aimlhod">Dr. N.Vinaya kumari is working as Associate Professor and Head of Department of CSE (AI&amp;ML) in Malla Reddy Institute of Technology and Science, Maisammaguda, Dhulapally, Hyderabad, Telangana. She has 10+ years of experience in teaching field. She has published many papers in the SCI, SCOPUS, peer-refereed National and International journals, book chapters and conferences. She has received her Doctorate (Ph.D.) degree in Computer Science and Engineering from SSSUTMS University, Bhopal, Madhya Pradesh. She did M.Tech with the specialization of Computer science and Engineering from St.Mary’s College Of Engineering And Technology, Deshmukhi, JNTU Hyderabad. she did his B. Tech with the specialization of Computer Science and Engineering from Aditya Engineering College Surampally Kakinada, JNTUK. She has research interests include Artificial Intelligence and Machine Learning, Data mining, She is a Coordinator of Indian Society for Technology Education (ISTE), She has held different academic positions like NBA and NAAC Coordinator.</string>
+
+
+    <string name="csedep">The Computer Science Department strives for excellence in creating, applying, and imparting knowledge in computer science and engineering through comprehensive educational programs, research in collaboration with industry and government, dissemination through scholarly publications, and service to professional societies, the community, the state, and the nation.
+
+The Department of CSE was established in the year 2005 with an intake of 60 students per batch. In a span of 3 years it has grown and the intake has been increased from 60 to 120 and now intake has increased from 120 to 180. The department has 32 teaching staff with 3 professors, 5 Associate professors and 23 assistant professors with PG qualification and rich experience in teaching and industry. It has established fully functional laboratories to fulfill the norms of JNTUH and AICTE, Imparting quality project work to students in the special characteristics for the career prospects.</string>
+
+    <string name="csdep">The Department of Computer Science and Engineering (Cyber Security): Cyber security is the application of technologies, processes and controls to protect systems, networks, programs, devices and data from cyber attacks. from the academic year 2020—2021 with an intake of 60. The department has 3 teaching staff with 1 professors and 2 assistant professors with PG qualification and rich experience in teaching and industry. It has established fully functional laboratories to fulfill the norms of JNTUH and AICTE, Imparting quality project work to students in the special characteristics for the career prospects.
+
+CAREER OPPORTUNITIES AFTER COMPLETION OF THE COURSE: 1. Security analyst 2. Security engineer 3. Security architect 4. Security administrator 5. Chief Information Security Officer (CISO) 6. Chief Security Officer (CSO) 7. Data Protection Officer (DPO) 8. Security Consultant/Specialist/Intelligence</string>
+    <string name="dsdep">The Department of Computer Science and Engineering (Data Science): Data science is a relatively new emerging and an interdisciplinary field of Computer Science. It concerned with the collection, preparation, analysis, visualization, management and preservation of large collections of information aiming at generating value from the data itself. from the academic year 2020—2021 with an intake of 60. The department has 3 teaching staff with 1 professors and 2 assistant professors with PG qualification and rich experience in teaching and industry. It has established fully functional laboratories to fulfill the norms of JNTUH and AICTE, Imparting quality project work to students in the special characteristics for the career prospects.
+
+CAREER OPPORTUNITIES AFTER COMPLETION OF THE COURSE: 1. Data Scientist 2. Data Analyst 3. Data Engineer 4. Data Mining Engineer 5. Data Architect 6. Project Manager 7. Data Consultant 8. Business Analyst</string>
+    <string name="aimldep">The increasing importance of Artificial Intelligence motivated the department of Computer Science and Engineering to offer a B.Tech program in Computer Science and Engineering – Artificial Intelligence and Machine learning (AI &amp; ML) from the academic year 2020—2021 with an intake of 60 and 2021-22 with an intake of 180. AI &amp; ML is an emerging area of Computer Science and Engineering (CSE). The department has 12 teaching staff with 2 professors, 4 Associate professors and 6 assistant professors with PG qualification and rich experience in teaching and industry. It has established fully functional laboratories to fulfill the norms of JNTUH and AICTE, Imparting quality project work to students in the special characteristics for the career prospects.
+
+The main objective of the department is: 1. Design and Develop 2. Enhance Knowledge 3. Employment The department offers major courses such as Foundations of Machine Learning, Artificial Intelligence &amp; Expert Systems, Machine Learning and Pattern Recognition, Natural Language Processing, Reinforcement Learning, Cyber Physical Systems. Several professional and open elective courses in Applied Machine Learning, Image and Vision Computing, Neural Computing and Robotics are also offered as a part of curriculum. The department has well-equipped specialized laboratory facilities like Data Mining and Knowledge Discovery, Programming in Logic, Machine Learning and Pattern Recognition, Internet of Things, Reinforcement Learning, and Speech and Language Processing etc. The infrastructure and lab facilities are upgraded from time to time and provide good practical learning and innovative environment for the students and researchers. The students are encouraged to participate in Hackathons / Projects / Internships to improve their practical knowledge.</string>
+
+
+    <string name="itdep">The Information Technology Department strives for excellence in creating, applying, and imparting knowledge in computer science and engineering through comprehensive educational programs, research in collaboration with industry and government, dissemination through scholarly publications, and service to professional societies, the community, the state, and the nation.Traditional computer applications that include data storage and programs to input, process, and output the data. Software and support for office automation systems such as word processing and spreadsheets, as well as the computer to run them. Users PCs and software.The most basic information technology definition is that its the application of technology to solve business or organizational problems on a broad scale. No matter the role, a member of an IT department works with others to solve technology problems, both big and small.Telephone and radio equipment. Video conferencing equipment. Personal computers. Performance management software for managing goal setting and performance review.</string>
+
+    <string name="ecedep">The Department of ECE was established in the year 2005 with an intake of 60 students in under graduate course B.Tech. In a span of 3 years it has grown considerably and the intake has been increased from 60 to 120. In 2012, the intake has increased to 180.The Department has grown to major heights and currently the total student strength in UG is 540. A PG course, M.Tech in ECE, ES&amp;VLSI was started in the department in 2010-11. One more PG course (Wireless &amp; Mobile communications) were introduced in the department in 2012-13. The department frequently organizes seminars/workshops in VLSI, Embedded systems, MATLAB etc.
+
+Excellent infrastructural facilities and state-of-art laboratories have been established. The department has well established Labs namely electrical engineering, analog communications, pulse digital circuits, IC applications, microwave, digital signal processing, embedded systems etc. to fulfill the norms of JNTU and AICTE, with sophisticated and branded equipment such as techtronics, R&amp;S etc.</string>
+
+
+    <string name="iste">The Indian Society for Technical Education is a national, professional,non-profit making Society registered under the Societies Registration Act of 1860.Being the only national organization of educators in the field of Engineering and Technology, ISTE effectively contributes in various missions of the Union Government. The Ministry of Human Resource Development, CTE / DST / MIT / State Governments are well associated with the ISTE for programmes relating to technical education. The Headquarters of ISTE is located at New Delhi.</string>
+
+    <string name="nss">The National Service Scheme (NSS) is a Central Sector Scheme of Government of India, Ministry of Youth Affairs &amp; Sports. It provides opportunity to the student youth of 11th &amp; 12th Class of schools at +2 Board level and student youth of Technical Institution, Graduate &amp; Post Graduate at colleges and University level of India to take part in various government led community service activities &amp; programmes.The sole aim of the NSS is to provide hands on experience to young students in delivering community service.</string>
+
+
+    <string name="iee">However, as the world\'s largest technical professional association, IEEE\'s membership has long been composed of engineers, scientists, and allied professionals. These include computer scientists, software developers, information technology professionals, physicists, medical doctors, and many others in addition to IEEE\'s electrical and electronics engineering core. For this reason the organization no longer goes by the full name, except on legal business documents, and is referred to simply as IEEE.
+
+</string>
+
+
+    <string name="vision2">        2.To Value the ability to educate the whole person and mend our students to learn the value of responsibility, self-discipline, community service, and understanding of others.
+</string>
+    <string name="vision3">3.To set the goals which will the rise the glory of our institution on to the highest peak of visualization.</string>
+
+
+    <string name="iete">The Institution of Electronics and Telecommunication Engineers (IETE) is Indias leading recognised professional society devoted to the advancement of Science and Technology of Electronics, Telecommunication &amp; IT. Founded in 1953. The IETE is the National Apex Professional body of Electronics and Telecommunication, Computer and IT Professionals. It serves more than 60,000 members through various 65 Centres, spread all over India and abroad. The Institution provides leadership in Scientific and Technical areas of direct importance to the national development and economy. Government of India has recognised IETE as a Scientific and Industrial Research Organization (SIRO) and also notified as an educational Institution of national eminence. The objectives of IETE focus on advancing e lectro-technology. The IETE conducts and sponsors technical meetings, conferences, symposia, and exhibitions all over India, publishes technical journals and provides continuing education as well as career advancement opportunities to its members. This was Established in MRITS in 2013.
+
+</string>
+
+    <string name="vision">
+        1.To prepare students to pursue the discovery of new knowledge. We recognize that academic inquiry fuels creative scholarship, which fuels the intellectual atmosphere of the classroom and the learning process.</string>
+
+
+    <string name="csi">Formed in 1965, the CSI has been instrumental in guiding the Indian IT industry down the right path since its formative years. Today, the CSI has 72 chapters all over India, 511 student branches, and more than 1,00,000 members including India\'s most famous IT industry leaders, brilliant scientists and dedicated academicians. The mission of the CSI is to facilitate research, knowledge sharing, learning and career enhancement for all categories of IT professionals, while simultaneously inspiring and nurturing new entrants into the industry and helping them to integrate into the IT community. The CSI is also working closely with other industry associations, government bodies and academia to ensure that the benefits of IT advancement ultimately percolate down to every single citizen of India.</string>
+    <string name="rate">https://play.google.com/store/apps/details?id=apple.teja.mycollegenotes</string>
+    <string name="rate1">https://play.google.com/store/apps/details?id=apple.teja.mycollegenotes</string>
+    <string name="sport"><![CDATA[Sports is an integral part of the curriculum. Malla reddy institute of technology & Science has excellent sports facility for the students within the campus. The college is committed to create a balanced atmosphere of academic and sports activities for the overall personality development. Students participate regularly in inter collegiate, inter university and state level tournaments and have been winning laurels for the college. Sports help in developing team spirit in students. Sports and Games help students improve their interpersonal relationship.]]></string>
+    <string name="library"><![CDATA[The Malla Reddy institute of Technology & Science was established in the year 2005. At present the library is having three skilled Professionals and one attendant, Library Timings:7:00am - 9:00pm]]></string>
+    <string name="wifi">MRITS Campus having 300 Mbps Internet connection Leased line, locally networked and connected through Wi-Fi. All the Laboratories of different department are having Internet facility connected through LAN. The entire college campus covered with 40 Wi-Fi Access points to access Internet. With this addition the college will provide internet and intranet access to all students for instructional purpose on par with colleges internationally 1. Available Internet connection: Vainavi Solutions (300mbps Leased Line) Reliance Jio Digital (50mbps) 2. Wi-Fi facilities: The entire campus connected with wireless LAN infrastructure through the Access point. 40 Wi-Fi Access points connected across the campus for Students.</string>
+    <string name="placements">Courses</string>
+    <string name="aboutmallareddy">Our Chairman, Shri Ch. Malla Reddy garu, strongly follows the saying “Intellectuals are not born but are made”. He believes in “GNANAMEVA SHAKTHI”. Knowledge imparts morals, honesty, power and potentiality to drive all of us to stand high in this society forever. He has a vision of excellence, a vision of triumph, a vision of destination for many. A vision to educate and enlighten millions, to ignite their latent thoughts and propel them to explore and learn. As today’s youth and budding generations have apparently been suffering from lack of proper direction, MRITS is the right place which envisions to channelize future direction. Every student has brilliant potential. He works passionately to transform every brilliant student into a Genius. He have trust in value based education. On the fine bedrock of India’s illustrious tenets of culture and heritage, he exemplify the secrets with contemporary instances from sports, entertainment, business and industry besides education. MRITS imparts training in soft and hard skills and nurtures the students to make them ready for industry in 21st century, the century of change and challenge. MHe is a visionary milieu which would cherish all his ideas, be a fountain of knowledge to serve and enhance the very meaning of existence. He realized that the place serving to be the epitome of knowledge, temple of learning to nurture personalities, to redefine knowledge frontiers in serving the students fraternity in their professional pursuits or varied interests.</string>
+    <string name="aboutbhadra">“A gentle Soul with a fountain of Knowledge”. He is highly qualified professional, an M.D. in general Medicine. By his youthful presence and with a proactive approach, he tirelessly endeavors to shape the destiny of the student community by imparting quality education in a conducive environment thereby motivation the students to successfully meet the contemporaneous needs of the industry. .</string>
+    <string name="aboutmahendra">“The inspirational intellect of the next generation”.This next generation intellect is carrying forward the pioneering legacy of his victory father, Sri Ch. Malla Reddy. With his innovative thoughts he is constantly striving to cope up the new challenges. He has an indomitable spirit to nurture and mould students into potential professionals and achieve laurels for the institution.</string>
+    <string name="chat_with_ai">Chat With AI</string>
+    <string name="profile">profile</string>
+
+    <string name="ganand">Dr.G.Anand is working as Vice Principal and Head of Department of Civil Engineering in Malla Reddy Institute of Technology and Science, Maisammaguda, Dhulapally, Hyderabad, Telangana.He has 10 + years of Teaching experience </string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

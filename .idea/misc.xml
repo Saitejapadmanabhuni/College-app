@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="apple.teja.mycollegenotes.MainActivity navController" />
+      <entry_point TYPE="field" FQNAME="apple.teja.mycollegenotes.MainActivity navHostFragment" />
+    </entry_points>
+    <pattern value="apple.teja.mycollegenotes.about.AboutFragment" />
+    <pattern value="apple.teja.mycollegenotes.ExampleUnitTest" method="addition_isCorrect" />
+    <pattern value="apple.teja.mycollegenotes.departments.aimlactivity" />
+    <pattern value="apple.teja.mycollegenotes.departments.csactivity" />
+    <pattern value="apple.teja.mycollegenotes.departments.cseactivity" />
+    <pattern value="apple.teja.mycollegenotes.departments.dsactivity" />
+    <pattern value="apple.teja.mycollegenotes.departments.eceactivity" />
+    <pattern value="apple.teja.mycollegenotes.ExampleInstrumentedTest" />
+    <pattern value="apple.teja.mycollegenotes.ExampleUnitTest" />
+    <pattern value="apple.teja.mycollegenotes.faculty.FacultyFragment" />
+    <pattern value="apple.teja.mycollegenotes.gallery.GalleryFragment" />
+    <pattern value="apple.teja.mycollegenotes.notice.NoticeData" method="getKey" />
+    <pattern value="apple.teja.mycollegenotes.home.HomeFragment" />
+    <pattern value="apple.teja.mycollegenotes.departments.itactivity" />
+    <pattern value="apple.teja.mycollegenotes.notice.NoticeAdapterTest" />
+    <pattern value="apple.teja.mycollegenotes.notice.NoticeFragment" />
+    <pattern value="apple.teja.mycollegenotes.MainActivity" />
+    <pattern value="apple.teja.mycollegenotes.MainActivity" method="MainActivity" />
+    <pattern value="apple.teja.mycollegenotes.notice.NoticeData" />
+    <pattern value="apple.teja.mycollegenotes.notice.NoticeData" method="setDate" />
+    <pattern value="apple.teja.mycollegenotes.notice.NoticeData" method="setImage" />
+    <pattern value="apple.teja.mycollegenotes.notice.NoticeData" method="setKey" />
+    <pattern value="apple.teja.mycollegenotes.notice.NoticeData" method="setTime" />
+    <pattern value="apple.teja.mycollegenotes.notice.NoticeData" method="setTitle" />
+    <pattern value="apple.teja.mycollegenotes.ExampleInstrumentedTest" method="useAppContext" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.033987244692015826" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

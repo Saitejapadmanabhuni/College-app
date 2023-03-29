@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/navigation_ebook"
+        android:title="@string/ebooks"
+        android:icon="@drawable/ebook"/>
+
+    <item
+        android:id="@+id/navigation_placements"
+        android:title="@string/placements"
+        android:icon="@drawable/ic_placements"/>
+
+    <item
+        android:id="@+id/navigation_website"
+        android:title="@string/website"
+        android:icon="@drawable/www"/>
+
+    <item
+        android:id="@+id/jntuhresults"
+        android:title="Jntuh Results"
+        android:icon="@drawable/ic_results"/>
+
+
+    <item
+        android:id="@+id/navigation_share"
+        android:title="@string/share"
+        android:icon="@drawable/share"/>
+
+    <item
+        android:id="@+id/navigation_rate"
+        android:title="@string/rate_us"
+        android:icon="@drawable/review"/>
+
+
+
+
+
+</menu>

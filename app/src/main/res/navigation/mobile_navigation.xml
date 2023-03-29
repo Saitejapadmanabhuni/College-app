@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/navigation_home">
+
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:label="Home"
+        android:name="apple.teja.mycollegenotes.home.HomeFragment"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/navigation_notice"
+        android:label="Notice"
+        android:name="apple.teja.mycollegenotes.notice.NoticeFragment"
+        tools:layout="@layout/fragment_notice" />
+
+    <fragment
+        android:id="@+id/navigation_gallery"
+        android:name="apple.teja.mycollegenotes.gallery.GalleryFragment"
+        android:label="Gallery"
+        tools:layout="@layout/fragment_gallery" />
+    <fragment
+        android:id="@+id/navigation_about"
+        android:name="apple.teja.mycollegenotes.about.AboutFragment"
+        android:label="About"
+        tools:layout="@layout/fragment_about" />
+</navigation>
